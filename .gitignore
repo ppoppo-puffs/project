@@ -1,14 +1,16 @@
 
 .env
+*.env*
+*.pem
+*.key
+dist/
 
-sendToken.ts
 sendToken.log
 
 mainnet_keys.rtf
 .openzeppelin/
 
 node_modules/
-package-lock.json
 
 # Hardhat files
 /cache
